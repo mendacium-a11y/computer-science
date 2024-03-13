@@ -1,4 +1,6 @@
 ![Open Source Society University (OSSU)](https://i.imgur.com/kYYCXtC.png)
+
+
 [reddit same thing](https://www.reddit.com/r/learnprogramming/comments/gsansp/my_55step_selftaught_cs_curriculum_updated/)
 
 <h3 align="center">Open Source Society University</h3>
